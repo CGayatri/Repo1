@@ -1,0 +1,10 @@
+ Volume in drive F is Study
+ Volume Serial Number is F275-7DEC
+
+ Directory of F:\Git_repos\MyProject
+
+07-06-2020  22:54    <DIR>          .
+07-06-2020  22:54    <DIR>          ..
+07-06-2020  22:54                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  63,472,947,200 bytes free
